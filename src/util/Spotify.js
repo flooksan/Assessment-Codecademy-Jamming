@@ -2,7 +2,8 @@
 //  declare an empty variable that will hold the user’s access token.
 const clientId = '2179a46985774ab08f64d1f019e2b93a' ;
 // const redirectUri= "http://localhost:3000/";
-const redirectUri = 'https://kloofsan-jamming.netlify.app/'
+// const redirectUri = 'https://kloofsan-jamming.netlify.app/'
+const redirectUri = 'https://kloof-jamming.vercel.app/'
 let userToken;
 
 const Spotify = {
